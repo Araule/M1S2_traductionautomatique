@@ -14,3 +14,7 @@ Toutes les run ont été faites sur google colab car nos ordinateurs n'étaient 
 Les fichiers ont parfois été detokénisé pour refaire le test du score bleu. Nous avons utiliser le detokenizer de mosesdecoder (https://github.com/moses-smt/mosesdecoder/).
 
 L'évaluation a été faite avec le fichier python `compute_bleu.py` reprise d'un repository de Yasmin Moslem (https://github.com/ymoslem/MT-Evaluation). Il nous a servi à calculer le score BLEU. Nous avons aussi testé le script `multiperl.perl` de mosesdecoder. Les résultats étaient très similaires.
+
+<br>
+
+*projet initialement fait sur gitlab*
